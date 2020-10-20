@@ -4,17 +4,15 @@
     "keywords": [
         "heroku",
         "iKOA",
-        "google drive"
+        "Onedrive"
     ],
-    "repository": "https://github.com/horryruo/ikoa-web",
+    "repository": "https://github.com/horryruo/ikoa-web/tree/onedrive-beta",
     "env": {
-        "TEAM_DRIVE_ID": {
-            "description": "the ID of the team drive"
-        },
-        "SA_JSON_1": {
+        
+        "ONEDRIVE_API_1": {
             "description": "follow the tips and FAQ in README.md"
         },
-        "SA_JSON_2": {
+        "ONEDRIVE_API_2": {
             "description": "follow the tips and FAQ in README.md"
         },
         "RCLONE_DESTINATION": {
